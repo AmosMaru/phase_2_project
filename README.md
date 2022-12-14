@@ -6,15 +6,15 @@ In this study, we investigated the factors that impact the cost of a house in Ki
 
 ## Question1: How does building grade impact price?
 
-![awesome]('pics/Question1.png')
+![question1]('pics/Question1.png')
 There is a clear increase in price as building grade increases. In my regression model, as the building grade increases one level, our sales price increases by $100900.
 
 ## Question2: How does building condition impact price?¶
 
-![awesome]('pics/Question2.png')
+![question2]('pics/Question2.png')
 From our analysis we see that our sales price increases by $30,000.
 
 ## Question3: How does building waterfron impact price?
 
-![awesome]('pics/Question3.png')
+![question3]('pics/Question3.png')
 Waterfront increases our sales price increases by $597,600 from our regression model.
